@@ -1,0 +1,6 @@
+C:\Users\zhunu\source\repos\Decision_support_system\bin\Debug\Decision_support_system.exe
+C:\Users\zhunu\source\repos\Decision_support_system\bin\Debug\Decision_support_system.pdb
+C:\Users\zhunu\source\repos\Decision_support_system\obj\Debug\Decision_support_system.csprojAssemblyReference.cache
+C:\Users\zhunu\source\repos\Decision_support_system\obj\Debug\Decision_support_system.csproj.CoreCompileInputs.cache
+C:\Users\zhunu\source\repos\Decision_support_system\obj\Debug\Decision_support_system.exe
+C:\Users\zhunu\source\repos\Decision_support_system\obj\Debug\Decision_support_system.pdb
